@@ -22,42 +22,18 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Nagasundar:
-    def __init__(self):
-        self.name        = "Nagasundar N M"
-        self.location    = "Thiruvappur, Pudukkottai, Tamil Nadu 🇮🇳"
-        self.degree      = "B.Tech AIML @ K. Ramakrishnan College of Engineering"
-        self.graduation  = "2026"
-        self.cgpa        = 7.1
-
-        self.stack = [
-            "Python", "Java", "SQL",
-            "scikit-learn", "pandas", "NumPy",
-            "Snowflake", "AWS", "Power BI",
-            "HTML", "CSS", "MongoDB",
-            "NLP", "OCR", "ESP32"
-        ]
-
-        self.currently_learning = [
-            "Deep Learning & Neural Networks",
-            "Large Language Models (LLMs)",
-            "Advanced Cloud Architecture (AWS)",
-            "MLOps & Model Deployment"
-        ]
-
-        self.fun_fact = (
-            "I built an AI reading pen for dyslexic users 📖✨"
-        )
-
-    def motto(self):
-        return "Code it. Train it. Deploy it. 🚀"
-
-me = Nagasundar()
-print(me.motto())
-```
+- 🎓 &nbsp; **B.Tech in AI & ML** @ K. Ramakrishnan College of Engineering *(2022 – 2026)*
+- 📍 &nbsp; Based in **Thiruvappur, Pudukkottai, Tamil Nadu 🇮🇳**
+- 💼 &nbsp; **ML Intern** @ DLK Career Development *(2024)*
+- 🤖 &nbsp; Passionate about **Machine Learning, NLP, Cloud & Embedded AI**
+- 🖊️ &nbsp; Built an **AI reading pen for dyslexic users** using ESP32 + OCR + NLP
+- ☁️ &nbsp; **AWS Certified Cloud Practitioner** & **Snowflake** Certified *(May 2026)*
+- 🌱 &nbsp; Currently diving into **Deep Learning, LLMs & MLOps**
+- 💬 &nbsp; Ask me about **Python · scikit-learn · Snowflake · Power BI**
+- 📫 &nbsp; Reach me at **nagasundarsundar2005@gmail.com**
+- ⚡ &nbsp; Fun fact: *"I built an AI reading pen for dyslexic users 📖✨"*
 
 <br clear="right"/>
 
@@ -179,6 +155,7 @@ print(me.motto())
 | 🐍 | **AI & Python Programming Workshop** | IIT Madras — 2023, Certified |
 | ☁️ | **Cloud Computing — NPTEL** | IIT Kharagpur — October 2024 |
 | 🍃 | **Introduction to MongoDB for Students** | MongoDB University |
+| ❄️ | **Snowflake with Oracle PL/SQL & Power BI** | May 2026 |
 | 💻 | **Diploma in IT (C & C++ Programming)** | August 2022 |
 | 🤝 | **Member — Institution of Engineers (India) [IEI]** | Technical talks, innovation events, student outreach |
 | 🎪 | **Departmental Symposium Organizer** | Coordinated college-level technical symposium |
