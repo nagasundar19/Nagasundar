@@ -24,16 +24,16 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🎓 &nbsp; **B.Tech in AI & ML** @ K. Ramakrishnan College of Engineering *(2022 – 2026)*
+- 🎓 &nbsp; ** Completed B.Tech in AI & ML** @ K. Ramakrishnan College of Engineering *(2022 – 2026)*
 - 📍 &nbsp; Based in **Thiruvappur, Pudukkottai, Tamil Nadu 🇮🇳**
 - 💼 &nbsp; **ML Intern** @ DLK Career Development *(2024)*
 - 🤖 &nbsp; Passionate about **Machine Learning, NLP, Cloud & Embedded AI**
 - 🖊️ &nbsp; Built an **AI reading pen for dyslexic users** using ESP32 + OCR + NLP
 - ☁️ &nbsp; **AWS Certified Cloud Practitioner** & **Snowflake** Certified *(May 2026)*
 - 🌱 &nbsp; Currently diving into **Deep Learning, LLMs & MLOps**
-- 💬 &nbsp; Ask me about **Python · scikit-learn · Snowflake · Power BI**
+- 💬 &nbsp; Ask me about **Python · Java · Snowflake · Power BI**
 - 📫 &nbsp; Reach me at **nagasundarsundar2005@gmail.com**
-- ⚡ &nbsp; Fun fact: *"I built an AI reading pen for dyslexic users 📖✨"*
+
 
 <br clear="right"/>
 
